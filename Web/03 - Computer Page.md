@@ -19,5 +19,5 @@ open `http://computer.tconserver.eskie`
 
 ---
 
-## Solution
+## Solution:
 

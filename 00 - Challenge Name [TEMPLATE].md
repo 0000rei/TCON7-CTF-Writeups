@@ -15,7 +15,7 @@ Writeup by: [hackername](URL)
 
 ---
 
-## Solution
+## Solution:
 
 
 

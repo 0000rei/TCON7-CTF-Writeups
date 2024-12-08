@@ -19,7 +19,7 @@ open `http://html.tconserver.eskie`
 
 ---
 
-## Solution
+## Solution:
 
 After adding the IP Address and FQDN in the host file.
 From the title of the challenge, a flag can be found in the page source of the website.

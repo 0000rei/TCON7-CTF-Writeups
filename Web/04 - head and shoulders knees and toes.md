@@ -19,7 +19,7 @@ open `http://shoulder.tconserver.eskie`
 
 ---
 
-## Solution
+## Solution:
 
 After adding the IP Address and FQDN in the host file.
 

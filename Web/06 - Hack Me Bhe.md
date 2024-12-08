@@ -19,5 +19,5 @@ open `http://vuln.tconserver.eskie:8080`
 
 ---
 
-## Solution
+## Solution:
 

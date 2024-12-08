@@ -19,7 +19,7 @@ open `http://interest.tconserver.eskie`
 
 ---
 
-## Solution
+## Solution:
 
 After adding the IP Address and FQDN in the host file.
 From the title of the challenge "Read Me This", a common file name README or readme can be use to view files in the server.

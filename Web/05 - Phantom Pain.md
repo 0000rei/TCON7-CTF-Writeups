@@ -20,7 +20,7 @@ open `http://konoha.tconserver.eskie`
 
 ---
 
-## Solution
+## Solution:
 
 After adding the IP Address and FQDN in the host file.
 We tried fuzzing files and directories, use different tools, we had a hard time finding this. But the right approach for this challenge is to perform subdomain enumeration.
