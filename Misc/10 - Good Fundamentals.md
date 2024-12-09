@@ -21,16 +21,18 @@ Cipher Text 2e678c011061381914e6c20f0350ccb10be36a88c8593db0f7afd3136a35d4d63a42
 
 ## Solution:
 
-Seeing this ciphertext and attached privkey, I noticed that this maybe a RSA crypto. I edited the privkey to have its proper pem format. I've used different tools like RSACTFTool and online tools but encountered errors. Tried troubleshooting it but can't move forward.
-I tried chatgpt to create a python script to decrpyt it and made some troubleshooting to make it work then I got the flag. below is the code.
+Seeing this ciphertext and the attached private key, I noticed that it might be RSA encryption. I edited the private key to ensure it was in the proper PEM format.
 
+I used various tools, such as RSACTFTool and online tools, but encountered errors. After troubleshooting, I was unable to move forward. I then used ChatGPT to help create a Python script to decrypt it. After making some adjustments to the script, I successfully decrypted the ciphertext and obtained the flag. Below is the code.
+
+
+```python
 from cryptography.hazmat.primitives import serialization
 from cryptography.hazmat.primitives.asymmetric import padding
 from cryptography.hazmat.primitives import hashes
 import binascii
 import re
 
-```python
 # Private RSA key in PEM format
 private_key_pem = b"""-----BEGIN RSA PRIVATE KEY-----
 MIIEpQIBAAKCAQEAk1Ag+Oou443fHsTcNqLat91K6Lx9auBwLu+a2PZTmlfIbNuR
