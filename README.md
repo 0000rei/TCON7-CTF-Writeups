@@ -6,6 +6,8 @@ CTF URL: [https://tcon7.laet4x.com/](https://tcon7.laet4x.com/)
 
 Below are the challenges:
 
+![challenges](chall.png)
+
 ## Web
 - Read Me This
 - HTML is not a programming language
@@ -53,5 +55,3 @@ Below are the challenges:
 Tuguegarao Consortium - The largest ICT and Hacker Conference in Northern Philippines, Conference which organized by HackTheNorth a national non-profit organization from North Luzon, recognized by the ICT Community, whose objective is the professional growth of ICT Enthusiasts.
 
 <img src="https://tcon7.laet4x.com/files/e6839bbece168d8d013bf223437021af/2c219020-6733-48c1-8393-3c51bc70f732.jpeg">
-
-
