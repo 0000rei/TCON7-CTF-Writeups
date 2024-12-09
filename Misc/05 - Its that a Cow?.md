@@ -15,7 +15,6 @@ OOOMoOMoOMoOMoOMoOMoOMoOMoOMMMmoOMMMMMMmoOMMMMOOMOomOoMoOmoOmoomOo MMMmoOMMMMMMm
 
 ## Solution:
 
-Seeing this line of Moooo reminded me of the brainfuck earlier, so I had to search if there is a cow encryption, then there it is. COW programming language which is also an esoteric programming language.
-Using online tools to decrypt it should reveal the flag.
+Seeing this line of "Moooo" reminded me of Brainfuck earlier, so I searched to see if there was a cow-based encryption. And there it was: the COW programming language, which is also an esoteric programming language. Using online tools to decrypt it should reveal the flag.
 
 tcon{a80b3140637e9f65837a56d55f69550e}
