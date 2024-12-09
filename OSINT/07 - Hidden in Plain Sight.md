@@ -24,7 +24,7 @@ Can you find what lies beneath the surface?
 ## Solution:
 
 Going back to the website https://laet4x.com/ from the challenge "Traveler's Secret".
-With the same approach, viewing the source code will 
+With the same approach, viewing the source code will show a google sheets link
 
 ```html
 <!-- Template Main JS File -->

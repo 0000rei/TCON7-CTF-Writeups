@@ -13,7 +13,7 @@ Writeup by: [000rei](https://github.com/0000rei)
 
 A curious cat image has surfaced, layered with mysteries in every pixel. Look beyond the fur and whiskers—there’s a hidden code concealed within. It’s up to you to reveal the secrets left by the Meta Cat. Decode, decipher, and delve deep to unveil the truth. Will you crack the feline enigma?
 
-<button>tconXmetaCat.webp</button>
+<a href="">tconXmetaCat.webp</a>
 
 ---
 

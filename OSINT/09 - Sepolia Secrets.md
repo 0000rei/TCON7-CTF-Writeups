@@ -11,7 +11,7 @@ Writeup by: [000rei](https://github.com/0000rei)
 
 ## Challenge: 
 
-Explore the mysteries surrounding address 0xbFCC250e1d5603d144c7ce99834403B0452d2644. Within this address lies a hidden secret waiting to be uncovered. Delve deep and see if you can piece together the clues to find what’s been concealed. The answers are there; you just need to look closely!
+Explore the mysteries surrounding address `0xbFCC250e1d5603d144c7ce99834403B0452d2644`. Within this address lies a hidden secret waiting to be uncovered. Delve deep and see if you can piece together the clues to find what’s been concealed. The answers are there; you just need to look closely!
 
 ---
 

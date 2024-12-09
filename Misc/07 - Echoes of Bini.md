@@ -17,7 +17,8 @@ Only those with sharp ears and a mind for puzzles will find the truth hidden wit
 
 Can you hear the message waiting to be uncovered?
 
-<button>tconXBINI_Salamin.mp3</button>
+<a>tconXBINI_Salamin.mp3</a>
+
 ---
 
 ## Solution:
