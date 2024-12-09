@@ -30,6 +30,7 @@ from cryptography.hazmat.primitives import hashes
 import binascii
 import re
 
+```python
 # Private RSA key in PEM format
 private_key_pem = b"""-----BEGIN RSA PRIVATE KEY-----
 MIIEpQIBAAKCAQEAk1Ag+Oou443fHsTcNqLat91K6Lx9auBwLu+a2PZTmlfIbNuR
@@ -102,5 +103,6 @@ except ValueError as e:
     print("Key deserialization or decryption error:", e)
 except Exception as e:
     print("An error occurred:", e)
+```
 
 Decrypted text: tcon{1ec83ed8e12dbafeb994d091d5a8b2d9}
