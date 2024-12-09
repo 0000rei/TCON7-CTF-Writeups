@@ -1,6 +1,6 @@
 # TCON7 CTF Writeups
 
-A repository of CTF writeups about HackTheNorth | TCON7 from Team GCS (xk4k4r0tx, [kangel](https://xeunwa.github.io/), 000rei).
+A repository of CTF writeups from Team GCS (xk4k4r0tx, [kangel](https://xeunwa.github.io/), [000rei](https://github.com/0000rei)) at HackTheNorth | TCON7 CTF. 
 
 CTF URL: [https://tcon7.laet4x.com/](https://tcon7.laet4x.com/)
 
